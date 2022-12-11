@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * Main - Makes the sum of two numbers
- * Description: Using the puts function to return a string
+ * main - Makes the sum of two numbers
+ *
  * Return: 0
  */
 
