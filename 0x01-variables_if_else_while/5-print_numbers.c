@@ -8,6 +8,12 @@
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	int num;
+
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
+
+	printf("\n");
+
 	return (0);
 }
