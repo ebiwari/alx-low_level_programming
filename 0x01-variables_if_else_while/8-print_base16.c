@@ -8,6 +8,17 @@
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+
+	char la;
+	int num;
+
+	for (num = 0; num < 10; num++)
+		putchar((num % 10) + '0');
+
+	for (la = 'a'; la <= 'z'; la--)
+		putchar(la);
+
+	putchar('\n');
+
 	return (0);
 }
