@@ -8,6 +8,22 @@
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+
+	int num;
+
+	for (num = 48; num < 58; num++)
+	{
+		putchar((num);
+
+		if (n != 57)
+		{
+			putchar(',');
+			putchar(' ');
+
+		}
+
+
+	putchar('\n');
+
 	return (0);
 }
